@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "xxf-claude-plugins",
+  "description": "xxf's custom Claude Code plugins",
+  "owner": {
+    "name": "xxf",
+    "email": "xxf@github"
+  },
+  "plugins": [
+    {
+      "name": "page-capture",
+      "description": "Capture screenshots and record interaction videos using Playwright MCP, with visible cursor indicators and ECharts canvas support",
+      "source": "./plugins/page-capture",
+      "category": "productivity"
+    }
+  ]
+}

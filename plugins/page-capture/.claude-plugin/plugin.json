@@ -1,0 +1,5 @@
+{
+  "name": "page-capture",
+  "version": "0.1.0",
+  "description": "Capture screenshots and record interaction videos of web pages using Playwright MCP, with visible cursor indicators and ECharts canvas support."
+}

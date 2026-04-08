@@ -4,12 +4,14 @@ Claude Code 自定义插件集合。
 
 ## 安装
 
-```bash
-# 添加 marketplace（首次）
-claude plugin marketplace add xxf66666/xxf-claude-plugins
+```
+# 在 Claude Code 对话中输入：
 
-# 安装插件
-claude plugin install page-capture@xxf-claude-plugins
+# 1. 添加 marketplace（首次）
+/plugin marketplace add xxf66666/xxf-claude-plugins
+
+# 2. 安装插件
+/plugin install page-capture
 ```
 
 ## 插件列表

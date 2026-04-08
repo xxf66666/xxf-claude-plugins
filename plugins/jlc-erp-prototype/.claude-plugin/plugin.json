@@ -1,0 +1,7 @@
+{
+  "name": "jlc-erp-prototype",
+  "description": "JLC ERP prototype page scaffolding — generates Vue 3 + Element Plus pages with mock data for the JLC SMT ERP system",
+  "author": {
+    "name": "xxf"
+  }
+}

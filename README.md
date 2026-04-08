@@ -19,6 +19,7 @@ Claude Code 自定义插件集合。
 | 插件 | 说明 | 触发词 |
 |------|------|--------|
 | **page-capture** | 用 Playwright 截图 + 录制交互视频 | "截图"、"录视频"、"capture page"、"record demo" |
+| **jlc-erp-prototype** | JLC ERP 原型页面脚手架 | "新增页面"、"加个页面"、"同步页面"、"做个列表页" |
 
 ### page-capture
 

@@ -12,6 +12,12 @@
       "description": "Capture screenshots and record interaction videos using Playwright MCP, with visible cursor indicators and ECharts canvas support",
       "source": "./plugins/page-capture",
       "category": "productivity"
+    },
+    {
+      "name": "jlc-erp-prototype",
+      "description": "JLC ERP prototype page scaffolding — generates Vue 3 + Element Plus pages with mock data",
+      "source": "./plugins/jlc-erp-prototype",
+      "category": "development"
     }
   ]
 }

@@ -6,10 +6,10 @@ Claude Code 自定义插件集合。
 
 ```bash
 # 1. 添加 marketplace（首次）
-/install → Add marketplace → xxf66666/xxf-claude-plugins
+/install marketplace xxf66666/xxf-claude-plugins
 
 # 2. 安装插件
-/install → 选择插件 → 安装
+/install page-capture
 ```
 
 ## 插件列表

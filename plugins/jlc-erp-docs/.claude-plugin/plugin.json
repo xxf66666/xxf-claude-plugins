@@ -1,0 +1,7 @@
+{
+  "name": "jlc-erp-docs",
+  "description": "Generate requirement documents for the JLC SMT ERP prototype with screenshots and interaction recordings",
+  "author": {
+    "name": "xxf"
+  }
+}

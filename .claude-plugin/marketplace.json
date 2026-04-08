@@ -18,6 +18,12 @@
       "description": "JLC ERP prototype page scaffolding — generates Vue 3 + Element Plus pages with mock data",
       "source": "./plugins/jlc-erp-prototype",
       "category": "development"
+    },
+    {
+      "name": "jlc-erp-docs",
+      "description": "Generate standardized requirement documents with screenshots and interaction recordings for JLC ERP features",
+      "source": "./plugins/jlc-erp-docs",
+      "category": "productivity"
     }
   ]
 }
